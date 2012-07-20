@@ -45,3 +45,5 @@ obj/
 
 #Project files
 [Bb]uild/
+Bonobo.Git.Server/Bonobo.Git.Server/App_Data/Bonobo.Git.Server.Debug.db
+Bonobo.Git.Server/Bonobo.Git.Server/App_Data/Bonobo.Git.Server.Release.db
